@@ -4,7 +4,7 @@
 <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
 <p>AW8 adalah platform hiburan digital terdepan yang menyajikan pengalaman bermain terbaik dan terpercaya bagi para pengguna di Asia. Dengan koleksi permainan yang lengkap, layanan profesional, serta komitmen tinggi pada keamanan dan keadilan, AW8 berhasil menjadi pilihan utama bagi para pencinta permainan online. Didukung oleh teknologi modern, AW8 menghadirkan hiburan berkualitas tinggi untuk memuaskan berbagai selera dan preferensi.</p>
-<a href="https://s.id/aw8online"><img src="https://i.ibb.co.com/hXmsM2y/daftar-aw8.gif" alt="daftar-aw8" width="171" height="55" border="0" /></a>
+<a href="https://rebrand.ly/aw8online"><img src="https://i.ibb.co.com/hXmsM2y/daftar-aw8.gif" alt="daftar-aw8" width="171" height="55" border="0" /></a>
 <p><strong>Keunggulan AW8:</strong></p>
 <ol>
 <li>
@@ -25,7 +25,7 @@
 </ol>
 <p><strong>Misi dan Visi:</strong></p>
 <p>Misi AW8 adalah memberikan hiburan online terbaik dengan menjunjung tinggi transparansi, kejujuran, dan profesionalisme. Visi AW8 adalah menjadi platform hiburan digital nomor satu yang terus mengedepankan inovasi untuk memenuhi kebutuhan hiburan modern di Asia.</p>
-<p><em>AW8 - Hiburan Terbaik di Genggaman Anda. [ <a href="https://s.id/aw8online">https://s.id/aw8online</a>&nbsp;]</em></p>
+<p><em>AW8 - Hiburan Terbaik di Genggaman Anda. [ <a href="https://rebrand.ly/aw8online">https://s.id/aw8online</a>&nbsp;]</em></p>
 <p>Dengan dedikasi untuk selalu menghadirkan pengalaman terbaik, AW8 adalah platform pilihan yang siap memberikan hiburan berkualitas tinggi serta layanan yang terpercaya bagi semua anggotanya.</p>
 </div>
 </div>
